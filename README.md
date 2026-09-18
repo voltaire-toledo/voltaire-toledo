@@ -1,5 +1,5 @@
 # Voltaire Toledo
-### Azure architect and founder of Proventuras. 25+ years making cloud simpler, safer, and more human.
+### Cloud architect. 25+ years making technology simpler, safer, and more human.
 
 ## How I help
 | Need | What you get |
@@ -14,7 +14,7 @@ I've worked every seat: architect, engineer, developer, presales, and owner.
 I design for the people who'll run the system at 3am, not just the diagram.
 
 ## I build things, too
-The best proof I'm hands-on is the tools I ship:
+The ones here are really more for fun and geared towards fulfilling the needs of my hobbies and interests. For best proof I'm hands-on is the tools I ship:
 
 - **[Mello-Workspace](https://github.com/voltaire-toledo/Mello-Workspace)**: Windows productivity layer (AutoHotkey)
 - **[Nexo](https://github.com/voltaire-toledo/Nexo)**: dedupe and merge your Bitwarden vault
