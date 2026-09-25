@@ -1,22 +1,23 @@
 # Voltaire Toledo
-### Cloud architect. 25+ years making technology simpler, safer, and more human.
+### Cloud architect. I get called in when the implementation is a mess.
 
 ## How I help
-| Need | What you get |
+
+| Need | Get |
 |---|---|
 | **Cloud assessment** | A clear picture of risk, cost, and gaps, with a prioritized plan |
 | **Azure landing zones** | A foundation your teams can build on without rework |
 | **Well-Architected review** | Findings tied to reliability, security, cost, and ops |
 | **Modernization design** | A path from legacy workloads to something maintainable |
 
-## Why I'm different
-I've worked every seat: architect, engineer, developer, presales, and owner.
-I design for the people who'll run the system at 3am, not just the diagram.
+I've worked every seat: architect, engineer, developer, presales, and owner. So when I design something, I do it for the people whose systems need to run at 3am, when those gremlins(tm) tend to work the hardest.
 
 ## I build things, too
-The ones here are really more for fun and geared towards fulfilling the needs of my hobbies and interests. For best proof I'm hands-on is the tools I ship:
+The repos here are side projects. Mostly built to fix my pet peeves.
 
-- **[Mello-Workspace](https://github.com/voltaire-toledo/Mello-Workspace)**: Windows productivity layer (AutoHotkey)
-- **[Nexo](https://github.com/voltaire-toledo/Nexo)**: dedupe and merge your Bitwarden vault
-- **[scripts](https://github.com/voltaire-toledo/scripts)**: PowerShell that has survived years of client and OS upgrades
-- **[keymap-collection](https://github.com/voltaire-toledo/keymap-collection)**: field-tested layouts for Keychron boards
+- **[Nexo](https://github.com/voltaire-toledo/Nexo)**: Dedupe and merge your Bitwarden vault securely. Local only; nothing collected.
+- **[scripts](https://github.com/voltaire-toledo/scripts)**: Scripts that have survived years of client and OS upgrades. We all have 'em. 
+- **[Mello-Workspace](https://github.com/voltaire-toledo/Mello-Workspace)**: Windows only; and yes, it's AutoHotkey based. Long story. General productivity scripts. Follow the link for the full feature set.
+- **[keymap-collection](https://github.com/voltaire-toledo/keymap-collection)**: Keymappings for the more common keyboard layouts - MacBooks, Windows laptops, 75% keyboards, and travel keyboards like the Keychron B1 Pro.
+
+I have a blog too! It's at [perpetually_under_construction]
