@@ -10,7 +10,7 @@
 | **Well-Architected review** | Findings tied to reliability, security, cost, and ops |
 | **Modernization design** | A path from legacy workloads to something maintainable |
 
-I've worked every seat: architect, engineer, developer, presales, and owner. So when I design something, I do it for the people whose systems need to run at 3am, when those gremlins(tm) tend to work the hardest.
+I've worked every seat: architect, engineer, developer, presales, and owner. So when I design something, I do it for the people whose systems need to run at 3am, when those gremlins™ tend to work the hardest.
 
 ## I build things, too
 The repos here are side projects. Mostly built to fix my pet peeves.
